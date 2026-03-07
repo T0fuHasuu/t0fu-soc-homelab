@@ -1,5 +1,9 @@
 # Security Operations Center Home Lab ( [T0fu](https://github.com/T0fuHasuu) )
 
+### Diagram
+
+![Diagram](./architecture/t0fu-soc-homelab.jpg)
+
 ### Repository Structure Layout
 ```
 t0fu-soc-homelab/
