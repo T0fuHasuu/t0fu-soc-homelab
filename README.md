@@ -22,7 +22,7 @@ t0fu-soc-homelab/
 └── screenshots/
 ```
 
-### VM-A
+### Virtual Machine A
 
 **Wazuh OVA**
 
