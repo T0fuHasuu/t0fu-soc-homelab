@@ -2,7 +2,7 @@
 
 ### Diagram
 
-![Diagram](./architecture/t0fu-soc-homelab.jpg)
+![Diagram](./architecture/sochomelab.jpg)
 
 ### Repository Structure Layout
 ```
